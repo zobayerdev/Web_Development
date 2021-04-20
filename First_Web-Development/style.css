@@ -1,0 +1,46 @@
+*{
+	text-align: Center;
+
+}
+
+p{
+	text-align: center;
+	background-color: white;
+	color:black;
+	transition: all 2s;
+	width: 100px;
+	height:100px;
+    align
+}
+
+p:hover{
+	background-color: red;
+	color:black;
+    width:290px;
+    height:60px;
+}
+
+    
+
+h2{
+	color: black;
+    transition: all 4s;
+}
+
+h2:hover{
+	background-color:red;
+	color:black;
+
+}
+
+
+h3{
+	color: black;
+    transition: all 4s;
+}
+
+h3:hover{
+	background-color:orange;
+	color:black;
+
+}
